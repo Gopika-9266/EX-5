@@ -52,6 +52,13 @@ while True:
 
 # OUTPUT:
 
+CLIENT:
+![reverseaddressresolution1](https://github.com/Gopika-9266/EX-5/assets/122762773/805e6c35-f55b-4c90-8128-3bd6c57c79ec)
+
+SERVER:
+![reverseaddressresolution](https://github.com/Gopika-9266/EX-5/assets/122762773/01f9f266-f429-4c0d-ac27-f13783708a82)
+
+
 
 # RESULT:
 Thus, python program for simulating RARP protocols using UDP was successfully executed.
