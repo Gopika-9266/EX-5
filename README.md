@@ -41,7 +41,7 @@ while True:
  
 SERVER:
 ```
- import socket
+import socket
 s=socket.socket()
 s.connect(('localhost',9000))
 while True:
